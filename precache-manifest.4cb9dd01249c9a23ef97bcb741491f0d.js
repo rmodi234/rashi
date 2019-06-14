@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80ebdd7f53bd4557c429fcb40c7d3cdf",
+    "revision": "1fb3bf6d5a428a720ec7ad235c2e0d2b",
     "url": "/rashi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rashi/static/css/2.c7bb94bc.chunk.css"
   },
   {
-    "revision": "7465b608c7f4b7a17b02",
+    "revision": "ea5f59774a64b644c42b",
     "url": "/rashi/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rashi/static/js/2.c0d1f774.chunk.js"
   },
   {
-    "revision": "7465b608c7f4b7a17b02",
-    "url": "/rashi/static/js/main.12f511cf.chunk.js"
+    "revision": "ea5f59774a64b644c42b",
+    "url": "/rashi/static/js/main.a7fa0eab.chunk.js"
   },
   {
     "revision": "cbb685f3a14a3117b9e1",
