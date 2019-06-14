@@ -2,10 +2,9 @@
   "name": "whatsyourrashi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rmodi234.github.io/whatsyourrashi",
+  "homepage": "https://rmodi234.github.io/rashi",
   "dependencies": {
     "bootstrap": "^4.3.1",
-   
     "gh-pages": "^2.0.1",
     "moment": "^2.24.0",
     "moment-range": "^4.0.2",
