@@ -429,6 +429,7 @@ class App extends React.Component {
       <React.Fragment>
         <DatePicker
         selected={this.state.startDate}
+        placeholderText="enter your dob"
         onChange={this.handleChange}
         dateFormat="MMMM d "
       />
