@@ -5,7 +5,7 @@
   "homepage": "https://rmodi234.github.io/rashi",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^5.0.0",
     "moment": "^2.24.0",
     "moment-range": "^4.0.2",
     "react": "^16.8.6",
